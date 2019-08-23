@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{44069FFF-1CC3-4518-B053-35CAE9450F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "Sort\MergeSort.csproj", "{A5419F8B-D75B-49C2-A5F6-9A45B1B50268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{22D834F5-14D4-4C5D-88D6-3A2521EE85C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44069FFF-1CC3-4518-B053-35CAE9450F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44069FFF-1CC3-4518-B053-35CAE9450F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44069FFF-1CC3-4518-B053-35CAE9450F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44069FFF-1CC3-4518-B053-35CAE9450F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5419F8B-D75B-49C2-A5F6-9A45B1B50268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5419F8B-D75B-49C2-A5F6-9A45B1B50268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5419F8B-D75B-49C2-A5F6-9A45B1B50268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5419F8B-D75B-49C2-A5F6-9A45B1B50268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D834F5-14D4-4C5D-88D6-3A2521EE85C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D834F5-14D4-4C5D-88D6-3A2521EE85C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D834F5-14D4-4C5D-88D6-3A2521EE85C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D834F5-14D4-4C5D-88D6-3A2521EE85C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DDFD901-A6C9-4DDF-98B2-2F6617EBA405}
+	EndGlobalSection
+EndGlobal

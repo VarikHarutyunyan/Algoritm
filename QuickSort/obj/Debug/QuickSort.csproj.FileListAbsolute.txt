@@ -1,0 +1,7 @@
+C:\Users\Varsik\source\repos\BinaryTree\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Varsik\source\repos\BinaryTree\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Varsik\source\repos\BinaryTree\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Varsik\source\repos\BinaryTree\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\Users\Varsik\source\repos\BinaryTree\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Varsik\source\repos\BinaryTree\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Varsik\source\repos\BinaryTree\QuickSort\obj\Debug\QuickSort.pdb

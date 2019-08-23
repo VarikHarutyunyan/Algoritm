@@ -1,0 +1,6 @@
+C:\Users\Varsik\source\repos\BinaryTree\Sort\bin\Debug\Sort.exe.config
+C:\Users\Varsik\source\repos\BinaryTree\Sort\bin\Debug\Sort.exe
+C:\Users\Varsik\source\repos\BinaryTree\Sort\bin\Debug\Sort.pdb
+C:\Users\Varsik\source\repos\BinaryTree\Sort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Varsik\source\repos\BinaryTree\Sort\obj\Debug\Sort.exe
+C:\Users\Varsik\source\repos\BinaryTree\Sort\obj\Debug\Sort.pdb
